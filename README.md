@@ -17,7 +17,7 @@
 ---
 
 ### Welcome to My GitHub!  
-👋 Hi, I’m M Naveen Kumar, a passionate Computer Science student and aspiring AI Engineer currently diving deep into AI, Web Development and Software Development.
+👋 Hi, I’m M Naveen Kumar, a passionate Computer Science student and aspiring AI Engineer currently diving deep into AI, Web Development, and Software Development.
 
 💡 I believe in the transformative power of technology and I’m constantly exploring innovative ways to apply tech in real-world applications.
 
@@ -28,21 +28,27 @@
 ---
 
 ### 🌟 Featured Projects
-- [**AI Payment Fraud Detection** - Detect fraudulent payment transactions](https://github.com/NaveenKumar101610/Ai-payment-fraud-detection.git): A machine learning model to identify fraudulent transactions in payment systems.
-  - **Technologies**: Python, Scikit-Learn, Pandas
-  - ![Stars](https://img.shields.io/github/stars/NaveenKumar101610/Ai-payment-fraud-detection?style=social) ![Forks](https://img.shields.io/github/forks/NaveenKumar101610/Ai-payment-fraud-detection?style=social)
+- [**AI Payment Fraud Detection**](https://github.com/NaveenKumar101610/Ai-payment-fraud-detection.git)  
+  - **Description**: A machine learning model to identify fraudulent transactions in payment systems.  
+  - **Technologies**: Python, Scikit-Learn, Pandas  
 
-- [**Phishing URL Detection** - A tool to identify phishing websites](https://github.com/Lava-Kumar-PL/Phishing_url_detection.git): Using machine learning algorithms to classify phishing websites.
-  - **Technologies**: Python, Machine Learning, Scikit-Learn
-  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/Phishing_url_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/Phishing_url_detection?style=social)
+- [**Phishing URL Detection**](https://github.com/Lava-Kumar-PL/Phishing_url_detection.git)  
+  - **Description**: Using machine learning algorithms to classify phishing websites.  
+  - **Technologies**: Python, Machine Learning, Scikit-Learn  
 
-- [**Action Recognition Video Splitter** - A Streamlit web application for video action segmentation](https://github.com/yourusername/action-recognition-splitter.git)
-  - **Technologies**: Python, Streamlit, TensorFlow, OpenCV
-  - Detects 30 different actions in videos and segments them based on transitions.
+- [**Action Recognition Video Splitter**](https://github.com/yourusername/action-recognition-splitter.git)  
+  - **Description**: A Streamlit web application for video action segmentation.  
+  - **Technologies**: Python, Streamlit, TensorFlow, OpenCV  
+  - **Features**:
+    - Detects 30 different actions in videos.  
+    - Splits videos into segments based on action transitions.  
 
-- [**Agri Chat Bot** - AI-powered chatbot for farmers](https://github.com/NaveenKumar101610/Agri-Chat-Bot.git)
-  - **Technologies**: Python, NLP, Flask, OpenAI API
-  - Provides real-time agricultural assistance and connects farmers with government schemes.
+- [**Agri Chat Bot**](https://github.com/NaveenKumar101610/Agri-Chat-Bot.git)  
+  - **Description**: AI-powered chatbot for farmers.  
+  - **Technologies**: Python, NLP, Flask, OpenAI API  
+  - **Features**:
+    - Provides real-time agricultural assistance.  
+    - Connects farmers with government schemes.  
 
 ---
 
@@ -62,4 +68,3 @@
 I love solving problems with code and am always up for learning something new!
 
 ---
-
