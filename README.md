@@ -28,21 +28,17 @@
 ---
 
 ### 🌟 Featured Projects
-- [**Online Food Order App** - A web application for ordering food online](https://github.com/Lava-Kumar-PL/online-food-order-app): A platform for users to browse restaurants and order food.
-  - **Technologies**: JavaScript, Node.js, Express, MongoDB
-  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/online-food-order-app?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/online-food-order-app?style=social)
-
-- [**Driver State Detection & Drowsiness Detection** - A project to detect driver fatigue](https://github.com/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection): Using computer vision to monitor the driver’s state and detect drowsiness.
-  - **Technologies**: Python, OpenCV, TensorFlow
-  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection?style=social)
-
-- [**Payment Fraud Detection** - Detect fraudulent payment transactions](https://github.com/Lava-Kumar-PL/payment_fraud_detection): A machine learning model to identify fraudulent transactions in payment systems.
+- [**AI Payment Fraud Detection** - Detect fraudulent payment transactions](https://github.com/NaveenKumar101610/Ai-payment-fraud-detection.git): A machine learning model to identify fraudulent transactions in payment systems.
   - **Technologies**: Python, Scikit-Learn, Pandas
-  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/payment_fraud_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/payment_fraud_detection?style=social)
+  - ![Stars](https://img.shields.io/github/stars/NaveenKumar101610/Ai-payment-fraud-detection?style=social) ![Forks](https://img.shields.io/github/forks/NaveenKumar101610/Ai-payment-fraud-detection?style=social)
 
-- [**Phishing URL Detection** - A tool to identify phishing websites](https://github.com/Lava-Kumar-PL/Phishing_url_detection): Using machine learning algorithms to classify phishing websites.
+- [**Phishing URL Detection** - A tool to identify phishing websites](https://github.com/Lava-Kumar-PL/Phishing_url_detection.git): Using machine learning algorithms to classify phishing websites.
   - **Technologies**: Python, Machine Learning, Scikit-Learn
   - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/Phishing_url_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/Phishing_url_detection?style=social)
+
+- [**Agri Chat Bot** - AI-powered chatbot for farmers](https://github.com/NaveenKumar101610/Agri-Chat-Bot.git): A chatbot designed to assist farmers with agricultural queries and provide useful insights.
+  - **Technologies**: Python, NLP, Flask
+  - ![Stars](https://img.shields.io/github/stars/NaveenKumar101610/Agri-Chat-Bot?style=social) ![Forks](https://img.shields.io/github/forks/NaveenKumar101610/Agri-Chat-Bot?style=social)
 
 ---
 
@@ -51,9 +47,9 @@
 
 ---
 
-###  Connect with Me!
+### Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
-[![GitHub](https://img.shields.io/badge/-M%20Naveen%20Kumar-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/Lava-Kumar-PL)  
+[![GitHub](https://img.shields.io/badge/-M%20Naveen%20Kumar-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaveenKumar101610)](https://github.com/NaveenKumar101610)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)]()
 
 ---
