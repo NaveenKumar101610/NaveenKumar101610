@@ -3,7 +3,7 @@
 ![Header](./github-header-image%20(2).png)
 
 ### Hey there! 👋 I'm M Naveen Kumar
-<a href="https://github.com/Lava-Kumar-PL" target="_blank">
+<a href="https://github.com/NaveenKumar101610/" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /> </a>
 
 <a href="https://www.linkedin.com/in/lava-kumar-p-l-699770225" target="_blank">
