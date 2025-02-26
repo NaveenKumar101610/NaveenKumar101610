@@ -48,7 +48,7 @@
 ---
 
 ### Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/naveen-kumar-8889aa234)  
 [![GitHub](https://img.shields.io/badge/-M%20Naveen%20Kumar-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaveenKumar101610)](https://github.com/NaveenKumar101610)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)]()
 
