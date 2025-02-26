@@ -36,7 +36,7 @@
   - **Description**: Using machine learning algorithms to classify phishing websites.  
   - **Technologies**: Python, Machine Learning, Scikit-Learn  
 
-- [**Action Recognition Video Splitter**](https://github.com/yourusername/action-recognition-splitter.git)  
+- [**Action Recognition Video Splitter**](https://github.com/NaveenKumar101610/Action-Recognition-Video-Splitter.git)  
   - **Description**: A Streamlit web application for video action segmentation.  
   - **Technologies**: Python, Streamlit, TensorFlow, OpenCV  
   - **Features**:
