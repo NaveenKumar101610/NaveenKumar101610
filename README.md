@@ -36,9 +36,13 @@
   - **Technologies**: Python, Machine Learning, Scikit-Learn
   - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/Phishing_url_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/Phishing_url_detection?style=social)
 
-- [**Agri Chat Bot** - AI-powered chatbot for farmers](https://github.com/NaveenKumar101610/Agri-Chat-Bot.git): A chatbot designed to assist farmers with agricultural queries and provide useful insights.
-  - **Technologies**: Python, NLP, Flask
-  - ![Stars](https://img.shields.io/github/stars/NaveenKumar101610/Agri-Chat-Bot?style=social) ![Forks](https://img.shields.io/github/forks/NaveenKumar101610/Agri-Chat-Bot?style=social)
+- [**Action Recognition Video Splitter** - A Streamlit web application for video action segmentation](https://github.com/yourusername/action-recognition-splitter.git)
+  - **Technologies**: Python, Streamlit, TensorFlow, OpenCV
+  - Detects 30 different actions in videos and segments them based on transitions.
+
+- [**Agri Chat Bot** - AI-powered chatbot for farmers](https://github.com/NaveenKumar101610/Agri-Chat-Bot.git)
+  - **Technologies**: Python, NLP, Flask, OpenAI API
+  - Provides real-time agricultural assistance and connects farmers with government schemes.
 
 ---
 
@@ -48,7 +52,7 @@
 ---
 
 ### Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/naveen-kumar-8889aa234)  
+[![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
 [![GitHub](https://img.shields.io/badge/-M%20Naveen%20Kumar-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaveenKumar101610)](https://github.com/NaveenKumar101610)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)]()
 
