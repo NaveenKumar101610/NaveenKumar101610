@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header](./lavaKumarBanner.png)
+![Header](./github-header-image%20(2).png)
 
 ### Hey there! 👋 I'm M Naveen Kumar
 <a href="https://github.com/Lava-Kumar-PL" target="_blank">
