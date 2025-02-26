@@ -51,7 +51,7 @@
 
 ---
 
-### 💋 Connect with Me!
+###  Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-M%20Naveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
 [![GitHub](https://img.shields.io/badge/-M%20Naveen%20Kumar-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/Lava-Kumar-PL)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)]()
